@@ -1,0 +1,7 @@
+PARA EJECUTAR LOS CÓDIGOS: 
+
+Presionar el botón "run" (una flecha/triángulo apuntando hacia la derecha) en el extremo superior derecho de la pantalla
+
+Tenga en consideración los dominios de las funciones ANTES de ejecutarlas. Muchas de ellas no están equipadas para enfrentarse a casos fuera de su dominio y poseen requerimientos específicos. A su vez, verifique que las estructuras de datos concuerden con la implementación.
+
+Para ingresar una ficha, el número de columna debe ser entre 0 y 6. Debe existir por cada juego SOLO 2 jugadores. El jugaodr que juega primero es aquel con la pieza de color ROJO

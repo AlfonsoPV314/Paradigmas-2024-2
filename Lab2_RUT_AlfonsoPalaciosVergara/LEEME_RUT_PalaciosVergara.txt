@@ -1,0 +1,13 @@
+PARA EJECUTAR LOS CÓDIGOS: 
+
+Se utilizó Prolog V9.2.8 en sistema operativo Windows 10 para la correcta ejecución de los archivos. Se puede utilizar el interpretador online en: https://swish.swi-prolog.org/.
+
+Presionar las teclas 'ctrl' + 'C' y luego 'ctrl' + 'B' en el archivo que se desee ejecutar para abrir la terminal de consultas y realizar las consultas a la base de conocimientos del archivo.
+Alternativamente, se puede ir a ’File → Edit ...’ desde la terminal de ejecución de Prolog para abrir el explorador de archivos y seleccionar el archivo a ejecutar.
+
+Tenga en consideración los dominios de los predicados ANTES de ejecutarlos. Muchos de ellos no están equipadas para enfrentarse a casos fuera de su dominio y poseen requerimientos específicos.
+A su vez, verifique que las estructuras de datos consultadas en la ejecución concuerden con la implementación.
+
+Para ingresar una ficha, el número de columna debe ser entre 0 y 6. Debe existir por cada juego SOLO 2 jugadores, y cada juego debe tener SOLO 1 ganador. NO se debe ingresar una ficha a una columna llena.
+
+IMPORTANTE: El jugaodo que juega primero debe ser aquel con la pieza de color ROJO

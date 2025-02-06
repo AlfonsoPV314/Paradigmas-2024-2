@@ -1,0 +1,21 @@
+RNF
+
+RF1 - TDAs: 1
+RF2 - Menú interactivo: 1
+RF3 - player: 1
+RF4 - piece: 1
+RF5 - board: 1
+RF6 - can_play: 1
+RF7 - play_piece: 1
+RF8 - check_vertical_win: 1
+RF9 - check-horizontal-win: 1
+RF10 - check_diagonal_win: 1
+RF11 - who_is_winner: 1
+RF12 - game: 1
+RF13 - game_history: 1
+RF14 - is_draw: 1
+RF15 - update_stats: 1
+RF16 - get_current_player: 1
+RF17 - game_get_board: 1
+RF18 - end_game: 1
+RF19 - player_play: 1

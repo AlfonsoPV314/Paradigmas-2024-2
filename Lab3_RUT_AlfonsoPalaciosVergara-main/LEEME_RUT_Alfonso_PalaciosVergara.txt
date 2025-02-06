@@ -1,0 +1,15 @@
+PARA EJECUTAR LOS CÓDIGOS: 
+
+Se utilizó IntelliJ IDEA v11 en sistema operativo Windows 10 para la correcta ejecución de los archivos. Se puede utilizar también el símbolo de sistema, en la carpeta base del directorio.
+
+PARA EJECUTAR EN INTELLIJ:
+Siga el path 'Lab3_RUT_AlfonsoPalaciosVergara\src\main\java\org.palaciosalfonso.lab3\Main.java' para abrir el archivo Main del programa, y presione el botón triangular (presumiblemente verde) de arriba a la derecha para ejecutar el programa
+
+PARA EJECUTAR EN EL SÍMBOLO DEL SISTEMA:
+Abra la terminal en el directorio base del programa (Lab3 RUT AlfonsoPalaciosVergara) y utilice el comando ’gradlew.bat build ’ seguido del comando ’gradlew.bat run’.
+
+Una vez ejecutado el programa, introduzca por la terminal (ya sea de IntelliJ o la terminal del sistema) la opción que desea ejecutar según el programa indique, o introduzca el texto que el programa requiere dependiendo del contexto.
+
+PARA VISUALIZAR LA DOCUMENTACIÓN:
+
+Abra el path 'Lab3_RUT_AlfonsoPalaciosVergara\docs\index.html' para abrir el archivo html que contiene la documentación en formato javadocs.
